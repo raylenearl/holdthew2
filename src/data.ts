@@ -309,7 +309,7 @@ export const WFA_TEAMS: WfaTeam[] = [
   {
     rank: 9,
     name: "Cincinnati Cougars",
-    logoUrl: "https://www.hostedlogos.com/football/wfa/CI_Cougars_logo_large.png",
+    logoUrl: "https://www.hostedlogos.com/football/wfa/Cougars_logo_large.png",
     record: "2-3",
     pointsFor: 106,
     pointsAgainst: 127,
